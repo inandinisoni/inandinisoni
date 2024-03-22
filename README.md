@@ -15,4 +15,3 @@ I'm also a self proclaimed video editor and internet surfer
 - ⚡ Languages: Python3, C, HTML, CSS, 
 
 
-> El Psy Kongroo
