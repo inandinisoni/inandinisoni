@@ -1,16 +1,18 @@
-### Hi there 👋
+# Nandini Soni 
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inandinisoni/)](https://www.linkedin.com/in/inandinisoni/)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soninandini214@gmail.com)](mailto:soninandini214@gmail.com)
 
-<!--
-**inandinisoni/inandinisoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Nandini Soni, I'm a 2nd year Btech student.
+I am pursuing my Bachlors degree in "Inter Of Things" branch. 
+I'm also a self proclaimed video editor and internet surfer 
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on python projects
+- 🌱 I’m currently learning Java
+- 💬 Ask me about: music,coding
+- 😄 Pronouns: she/her
+-  ⚡ Languages: Python3, C, HTML, CSS, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> El Psy Kongroo
