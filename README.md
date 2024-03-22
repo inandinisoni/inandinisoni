@@ -4,7 +4,7 @@
 
 ## Hi 👋, 
 I'm Nandini Soni, I'm a 2nd year Btech student.
-I am pursuing my Bachlors degree in "Inter Of Things" branch. 
+I am pursuing my Bachelors degree in "Intert Of Things" branch. 
 I'm also a self proclaimed video editor and internet surfer 
 🏄‍♂️. 
 
@@ -12,7 +12,7 @@ I'm also a self proclaimed video editor and internet surfer
 - 🌱 I’m currently learning Java
 - 💬 Ask me about: music,coding
 - 😄 Pronouns: she/her
--  ⚡ Languages: Python3, C, HTML, CSS, 
+- ⚡ Languages: Python3, C, HTML, CSS, 
 
 
 > El Psy Kongroo
