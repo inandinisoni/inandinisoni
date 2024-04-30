@@ -9,7 +9,7 @@ I'm also a self proclaimed video editor and internet surfer
 🏄‍♂️. 
 
 - 🔭 I’m currently working on web development projects,python
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development,Python 
 - 💬 Ask me about: music,coding
 - 😄 Pronouns: she/her
 - ⚡ Languages: Python3, C, HTML, CSS, 
