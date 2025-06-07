@@ -3,12 +3,12 @@
 <h3 align="center">Building Real-World Solutions with IoT, Web & Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20Web%20Dev%20%7C%20Generative%20AI%20Tools;Tech%20for%20Better%20Everyday%20Life!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20Web%20Dev%20%7C%20;Tech%20for%20Better%20Everyday%20Life!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/16SVFnsQwoJrhZ8tB1k1SbSAtCLgsQnbh/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  <a href="https://inandinisoni.github.io/inandinisoni/Nandini_Resume.pdf">
+    <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
 </p>
 
