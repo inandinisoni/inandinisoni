@@ -3,7 +3,7 @@
 <h3 align="center">Building Real-World Solutions with IoT, Web & Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20Web%20Dev%20%7C%20;Tech%20for%20Better%20Everyday%20Life!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20Web%20Dev%20%7C%20Prompt%20Engineering;Tech%20for%20Better%20Everyday%20Life!" alt="Typing SVG" />
 </p>
 
 <p align="center">
