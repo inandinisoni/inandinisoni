@@ -18,8 +18,8 @@
 
 - 🎓 Pursuing **B.Tech in Internet of Things** at Samrat Ashok Technological Institute (CGPA: 7.21/10)
 - 🌐 Web development & IoT enthusiast, integrating tech to solve real-world problems
-- 🤖 Hands-on with **Generative AI**, automation systems, and full-stack web projects
-- 🧠 Currently exploring **ML-powered tools**, cybersecurity, and frontend scalability
+- 🤖 Hands-on with **Web Development**, automation systems, and full-stack web projects
+- 🧠 Currently exploring **Full Stack development**, Node.js, and frontend scalability
 
 ---
 
